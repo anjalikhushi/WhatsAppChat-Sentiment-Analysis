@@ -2,7 +2,7 @@
 
 WhatsApp Chat Sentiment Analysis
 
-#Description
+# Description
 
 Exported the chat from WhatsApp and extracted the files in the form of "text file",then imported the dataset after importing found the time,author and messages of WhatsApp.
 In the next step is preprocessed and after cleaning the dataset it will be trained for our project.
